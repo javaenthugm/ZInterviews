@@ -10,6 +10,8 @@ public class BigOExamples {
 		//isPrime
 		System.out.println(isPrime(4));
 		
+		//testing
+		
 	}
 	
 	private static boolean isPrime(int n){
